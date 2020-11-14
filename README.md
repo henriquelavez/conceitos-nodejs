@@ -62,7 +62,7 @@ Para esse desafio temos os seguintes testes:
 
 ## :memo: Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](../LICENSE) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/rocketseat-education/bootcamp-gostack-desafios/blob/master/LICENSE) para mais detalhes.
 
 ---
 
