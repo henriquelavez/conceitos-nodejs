@@ -1,6 +1,7 @@
 <h3 align="center">
   Desafio 02: Conceitos do Node.js
 </h3>
+
 ## :rocket: Sobre o desafio
 
 Nesse desafio, você deve criar uma aplicação para treinar o que você aprendeu até agora no Node.js!
